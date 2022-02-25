@@ -3,9 +3,13 @@
 # Autumn 2021
 # 1. Objectives
 • To translate the theoretical knowledge gained throughout the lectures into practise by designing and implementing a neural network capable of solving a dynamic environment problem.
+
 • Understand how different deep learning architectures work.
+
 • Be capable of implementing a deep learning architecture using TensorFlow and PyTorch.
+
 • Present the results of using a dataset from a Kaggle Competition to train a deep learning architecture and make predictions with them. 
+
 # 2. Description of the Assignment
 The assignment for the module consist of two parts: an individual project and a group project.
 # Individual project
